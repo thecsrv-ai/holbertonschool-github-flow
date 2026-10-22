@@ -1,4 +1,4 @@
-# Project History
+# Project Introduction
 
 This documentation project is used to practice collaborative workflows with Git and GitHub. It does not describe a real product, but it behaves like a real documentation repository.
 
